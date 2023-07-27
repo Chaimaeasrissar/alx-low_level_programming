@@ -4,7 +4,6 @@
 
 size_t print_list(const list_t *h)
 {
-	/* It count the size of the list*/
 size_t count = 0;
 while (h)
 {
