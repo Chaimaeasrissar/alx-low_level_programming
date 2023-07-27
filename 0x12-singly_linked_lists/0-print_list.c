@@ -12,7 +12,7 @@ while (h)
 		printf("[0] (nil)\n");
 	else
 		printf("[%u] %s\n", h->len, h->str);
-	count +=1;
+	count = count + 1;
 	h = h->next;
 }
 return (count);
