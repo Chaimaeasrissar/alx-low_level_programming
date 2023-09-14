@@ -1,3 +1,5 @@
+#include "lists.h"
+
 /**
  * free_dlistint - Free the memory
  * @head: Pointer to head
